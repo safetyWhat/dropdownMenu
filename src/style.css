@@ -1,0 +1,23 @@
+* {
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+
+header {
+    display: flex;
+    flex-direction: row;
+}
+
+#menu  {
+    list-style: none;
+    display: none;
+}
+
+#menu a {
+    display: block;
+}
+
+/*.menu_holder:hover .menu {
+    display:block;
+}*/
